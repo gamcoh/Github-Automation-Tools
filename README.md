@@ -45,6 +45,7 @@ python getTimeFromIssues.py
 ```
 
 Results:
+
 ![Capture d’écran 2019-03-21 à 11 10 04](https://user-images.githubusercontent.com/18115514/54745486-eb516300-4bc9-11e9-941f-c6184d663104.png)
 
 
