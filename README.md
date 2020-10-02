@@ -3,6 +3,7 @@ Tools to automate certain tasks
 
 ## Instalation
 ```
+git clone https://github.com/gamcoh/Github-Automation-Tools.git
 pip install -r requirements.txt
 ```
 
